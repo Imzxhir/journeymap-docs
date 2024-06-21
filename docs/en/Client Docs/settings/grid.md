@@ -6,7 +6,6 @@ You can also reach this from the full-screen map by holding the ++shift++ key an
 
 ![Grid-Settings](../../img/settings/client/grid.png){: .center}
 
-
 The grid outlines individual chunks on the map. Grid styles that include region lines will draw an extra grid with differently-coloured lines to outline world regions on the map.
 
 - Select a colour for the grid lines by clicking on the colour wheel.
@@ -15,7 +14,7 @@ The grid outlines individual chunks on the map. Grid styles that include region 
 - Click the **Cancel** button to discard your changes and close the grid editor.
 - Click the **Save** button to save your changes and close the grid editor.
 
-| Setting | Options                                                    | Description                                 |
-|---------|------------------------------------------------------------|---------------------------------------------|
-| Style   | **Squares**, SquaresWithRegion, GridRegion, Dots, Checkers | Change the type of grid overlaid on the map |
-| Opacity | Percentage: 0 - 100 <br>**Default is 50**                  | How opaque the grid should be drawn         |
+| Setting | Options                                  | Description                                 |
+| ------- | ---------------------------------------- | ------------------------------------------- |
+| Style   | **Squares**, Squares With Region, Region | Change the type of grid overlaid on the map |
+| Opacity | Percentage: 0 - 1 <br>**Default is 0.5** | How opaque the grid should be drawn         |
