@@ -81,6 +81,7 @@ plugins:
             Waypoint Beacons: Waypoint Beacons
             Cartography: Cartography
             Advanced Options: Advanced Options
+            Map Filters: Map Filters
             Waypoints: Waypoints
             Server Docs: Server Docs
             Commands: Commands
@@ -127,6 +128,7 @@ nav:
           - Waypoint Beacons: Client Docs/settings/waypoint-beacon.md
           - Cartography: Client Docs/settings/cartography.md
           - Advanced Options: Client Docs/settings/advanced.md
+          - Map Filters: Client Docs/settings/map-filters.md
       - Waypoints: Client Docs/waypoints.md
   - Server Docs:
       - Installing: Server Docs/installing.md
